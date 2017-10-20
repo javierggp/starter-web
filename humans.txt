@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Javier Gonzalez jgonzalez@lalala.com @student
 
 # THANKS
 
